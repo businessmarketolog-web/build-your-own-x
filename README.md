@@ -50,6 +50,7 @@ It's a great way to learn.
 * [**C++**: _Physically Based Rendering:From Theory To Implementation_](https://www.pbr-book.org/)
 * [**C++**: _Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 * [**C++**: _Rasterization: a Practical Implementation_](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm)
+* [**C++**: _Code-It-Yourself! 3D Graphics Engine Part #1 - Triangles & Projection_](https://www.youtube.com/watch?v=ih20l3pJoeU) [video]
 * [**C# / TypeScript / JavaScript**: _Learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript_](https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/)
 * [**Java / JavaScript**: _Build your own 3D renderer_](https://avik-das.github.io/build-your-own-raytracer/)
 * [**Java**: _How to create your own simple 3D render engine in pure Java_](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
@@ -153,6 +154,7 @@ It's a great way to learn.
 * [**Rust**: _Mini-LSM: Build a Database Storage Engine in Rust_](https://skyzh.github.io/mini-lsm/)
 * [**Rust**: _Build your own Redis client and server_](https://tokio.rs/tokio/tutorial/setup)
 * [**Rust**: _Vector Database from Scratch_](https://skyzh.github.io/vector-db-from-scratch/)
+* [**Scala**: _A Practical Guide to Building a Cost-Based Query Planner_](https://github.com/tuannh982/query-planner-guide)
 
 #### Build your own `Distributed Systems`
 
@@ -246,6 +248,7 @@ It's a great way to learn.
 * [**Haskell**: _Reimplementing “git clone” in Haskell from the bottom up_](http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
 * [**JavaScript**: _Gitlet_](http://gitlet.maryrosecook.com/docs/gitlet.html)
 * [**JavaScript**: _Build GIT - Learn GIT_](https://kushagra.dev/blog/build-git-learn-git/)
+* [**PHP**: _Build And Learn Git With PHP_](https://omar-ahmed-elshiekh.github.io/git-php-doc-website/)
 * [**Python**: _Just enough of a Git client to create a repo, commit, and push itself to GitHub_](https://benhoyt.com/writings/pygit/)
 * [**Python**: _Write yourself a Git!_](https://wyag.thb.lt/)
 * [**Python**: _ugit: Learn Git Internals by Building Git Yourself_](https://www.leshenko.net/p/ugit/)
@@ -284,11 +287,13 @@ It's a great way to learn.
 * [**Python**: _Neural Networks: Zero to Hero_](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 * [**Python**: _Neural Networks and Deep Learning_](http://neuralnetworksanddeeplearning.com/)
 * [**Python**: _SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python_](https://github.com/xames3/slowtorch)
+* [**Rust**: _Deep Learning from First Principles_](https://ai.palashkantikundu.in)
 
 #### Build your own `Operating System`
 
 * [**Assembly**: _Writing a Tiny x86 Bootloader_](http://joebergeron.io/posts/post_two.html)
 * [**Assembly**: _Baking Pi – Operating Systems Development_](http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
+* [**Assembly**: _[Part 1] Simple Bootloader for Linux_](https://medium.com/@7amza.dridi/part-1-simple-bootloader-for-linux-6fec2ba20346)
 * [**C**: _Building a software and hardware stack for a simple computer from scratch_](https://www.youtube.com/watch?v=ZjwvMcP3Nf0&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX) [video]
 * [**C**: _Operating Systems: From 0 to 1_](https://tuhdo.github.io/os01/)
 * [**C**: _The little book about OS development_](https://littleosbook.github.io/)
@@ -300,6 +305,7 @@ It's a great way to learn.
 * [**C**: _Hack the virtual memory_](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)
 * [**C**: _Learning operating system development using Linux kernel and Raspberry Pi_](https://github.com/s-matyukevich/raspberry-pi-os)
 * [**C**: _Operating systems development for Dummies_](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
+* [**C**: _Operating System in 1,000 Lines_](https://operating-system-in-1000-lines.vercel.app/en/)
 * [**C++**: _Write your own Operating System_](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M) [video]
 * [**C++**: _Writing a Bootloader_](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [**Rust**: _Writing an OS in Rust_](https://os.phil-opp.com/)
@@ -383,6 +389,7 @@ It's a great way to learn.
 #### Build your own `Search Engine`
 
 * [**CSS**: _How we built the real demo for our fake CSS API client_](https://www.algolia.com/blog/engineering/real-demo-fake-css-api-client)
+* [**Java**: _Build your own Search Engine from Scratch in Java_](https://www.0xkishan.com/blogs/build-your-own-search-engine-from-scratch-in-java/)
 * [**Python**: _Building a search engine using Redis and redis-py_](http://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html)
 * [**Python**: _Building a Vector Space Indexing Engine in Python_](https://boyter.org/2010/08/build-vector-space-search-engine-python/)
 * [**Python**: _Building A Python-Based Search Engine_](https://www.youtube.com/watch?v=cY7pE7vX6MU) [video]
@@ -396,6 +403,7 @@ It's a great way to learn.
 * [**C**: _Writing a UNIX Shell_](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 * [**C**: _Build Your Own Shell_](https://github.com/tokenrove/build-your-own-shell)
 * [**C**: Write a shell in C](https://danishpraka.sh/posts/write-a-shell/)
+* [**C++**: _Building a Cross-Platform Shell in C++: What fork() Does That \_spawnvp() Can’t_](https://medium.com/@wasif.bscs24seecs/building-a-cross-platform-shell-in-c-what-fork-does-that-spawnvp-cant-02913b59d9c7)
 * [**Go**: _Writing a simple shell in Go_](https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/)
 * [**Rust**: _Build Your Own Shell using Rust_](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
 
@@ -465,6 +473,7 @@ It's a great way to learn.
 * [**Go**: _Build A Simple Terminal Emulator In 100 Lines of Golang_](https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go/)
 * [**Go**: _Let's Create a Simple Load Balancer_](https://kasvith.me/posts/lets-create-a-simple-lb-go/)
 * [**Go**: _Video Encoding from Scratch_](https://github.com/kevmo314/codec-from-scratch)
+* [**Go**: _Building an HTTP Server From Scratch using TCP_](https://medium.com/@devdhanadiya07/building-http-from-scratch-using-tcp-f21fbe46fd5b)
 * [**Java**: _How to Build an Android Reddit App_](https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y) [video]
 * [**JavaScript**: _Build Your Own Module Bundler - Minipack_](https://github.com/ronami/minipack)
 * [**JavaScript**: _Learn JavaScript Promises by Building a Promise from Scratch_](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
@@ -473,6 +482,7 @@ It's a great way to learn.
 * [**JavaScript**: _JavaScript Algorithms and Data Structures_](https://github.com/trekhleb/javascript-algorithms)
 * [**JavaScript**: _Build a ride hailing app with React Native_](https://pusher.com/tutorials/ride-hailing-react-native)
 * [**JavaScript**: _Build Your Own AdBlocker in (Literally) 10 Minutes_](https://levelup.gitconnected.com/building-your-own-adblocker-in-literally-10-minutes-1eec093b04cd)
+* [**JavaScript**: _Creating a WebSocket server using only the RFC doc (Part 1): Handshakes_](https://medium.com/@ahanshankar/creating-a-websocket-server-using-only-the-rfc-doc-part-1-handshakes-6cbbe16552e5)
 * [**Kotlin**: _Build Your Own Cache_](https://github.com/kezhenxu94/cache-lite)
 * [**Lua**: _Building a CDN from Scratch to Learn about CDN_](https://github.com/leandromoreira/cdn-up-and-running)
 * [**Nim**: _Writing a Redis Protocol Parser_](https://xmonader.github.io/nimdays/day12_resp.html)
